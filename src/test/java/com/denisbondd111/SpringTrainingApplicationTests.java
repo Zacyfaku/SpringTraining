@@ -1,4 +1,4 @@
-package com.denisbondd111.SpringTreining;
+package com.denisbondd111;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

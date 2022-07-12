@@ -1,4 +1,4 @@
-package com.denisbondd111.SpringTreining.entity;
+package com.denisbondd111.entity;
 
 public class Ingredient {
     private String id;
